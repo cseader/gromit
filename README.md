@@ -1,5 +1,5 @@
-openSUSE OpenStack Development Appliance (grommit) 
-===============================================
+openSUSE OpenStack Development Appliance (gromit) 
+=================================================
 
 Coming Soon...
 
